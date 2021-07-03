@@ -491,7 +491,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #555555;
   margin: 5px 0 30px 0;
   font-size: 24px;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 #hero .btn-get-started {
@@ -792,6 +792,11 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+
+.about .section-title p {
+  width: 100%;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
